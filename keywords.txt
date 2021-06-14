@@ -1,0 +1,9 @@
+Vector  KEYWORD1
+ARMDSL  KEYWORD
+setupAccelerometer  KEYWORD2
+measureAccel    KEYWORD2
+measureRawAccel KEYWORD2
+measureDistance KEYWORD2
+readButtonState KEYWORD2
+watchButtonState    KEYWORD2
+waitButtonState KEYWORD2
